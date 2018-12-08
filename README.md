@@ -1,3 +1,3 @@
-# CTF_RE_PWN
+# CTF_PWN
 
-This is the repo for re and pwn including the file and some with wp
+This is the repo for **ctf pwn** including the file and exp
